@@ -108,7 +108,7 @@ export default function Home() {
     <div>
       {/* HERO */}
       <section
-        className="min-h-screen flex items-center pt-20 pb-12 relative overflow-hidden bg-cover bg-center"
+        className="min-h-screen flex items-start lg:items-center pt-32 lg:pt-24 pb-12 relative overflow-hidden bg-cover bg-center"
         style={{ backgroundImage: "url('/hero.png')" }}
       >
         {/* Background elements */}
