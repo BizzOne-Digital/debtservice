@@ -76,8 +76,8 @@ export default function HowItWorks() {
           <div>
             <h2 className="text-3xl font-black text-white mb-4">Ready to Get Started?</h2>
             <p className="text-gray-400 mb-6">Call NAVJOT or fill out the form to begin your free consultation today.</p>
-            <a href="tel:5878921200" className="btn-primary inline-flex items-center gap-2">
-              <PhoneIcon className="w-4 h-4" />587-892-1200
+            <a href="tel:5198351210" className="btn-primary inline-flex items-center gap-2">
+              <PhoneIcon className="w-4 h-4" />519-835-1210
             </a>
           </div>
           <div className="bg-white rounded-2xl p-6">

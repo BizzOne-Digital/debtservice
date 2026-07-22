@@ -4,9 +4,9 @@ import toast from 'react-hot-toast';
 
 const defaults = {
   businessName: 'Debt Service Inc.',
-  phone: '587-892-1200',
+  phone: '519-835-1210',
   email: 'info@debtservice.ca',
-  address: 'Alberta, Canada',
+  address: 'Guelph, Ontario N1L 1N2',
   gmailUser: '',
   gmailPassword: '',
   adminEmail: '',

@@ -58,8 +58,8 @@ export default function Team() {
             <h2 className="text-3xl font-black text-white mb-4">Talk to Our Team Today</h2>
             <p className="text-gray-400 mb-8 max-w-xl mx-auto">Get a free, no-obligation consultation. Our team will review your situation and explain all your options.</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="tel:5878921200" className="btn-primary flex items-center justify-center gap-2">
-                <PhoneIcon className="w-5 h-5" />587-892-1200
+              <a href="tel:5198351210" className="btn-primary flex items-center justify-center gap-2">
+                <PhoneIcon className="w-5 h-5" />519-835-1210
               </a>
               <Link to="/contact" className="btn-outline flex items-center justify-center gap-2">
                 Get Free Consultation <ArrowIcon className="w-4 h-4" />

@@ -45,7 +45,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-bold text-navy-900 mb-1">Phone</p>
-                  <a href="tel:5878921200" className="text-gray-600 hover:text-crimson-600 transition-colors">587-892-1200 (NAVJOT)</a>
+                  <a href="tel:5198351210" className="text-gray-600 hover:text-crimson-600 transition-colors">519-835-1210 (NAVJOT)</a>
                   <p className="text-xs text-gray-400 mt-0.5">Call or text anytime</p>
                 </div>
               </div>
@@ -64,8 +64,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-bold text-navy-900 mb-1">Location</p>
-                  <p className="text-gray-600">Alberta, Canada</p>
-                  <p className="text-xs text-gray-400">Serving all of Alberta</p>
+                  <p className="text-gray-600">Guelph, Ontario N1L 1N2</p>
+                  <p className="text-xs text-gray-400">Serving all of Ontario</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">

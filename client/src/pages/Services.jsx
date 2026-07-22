@@ -116,8 +116,8 @@ export default function Services() {
           <div>
             <h2 className="text-3xl font-black text-white mb-4">Not Sure Which Option Is Right for You?</h2>
             <p className="text-gray-400 mb-4">That's exactly what we're here for. Our free consultation walks through your entire financial situation and recommends the best path forward.</p>
-            <a href="tel:5878921200" className="btn-primary inline-flex items-center gap-2">
-              <PhoneIcon className="w-4 h-4" />Call 587-892-1200
+            <a href="tel:5198351210" className="btn-primary inline-flex items-center gap-2">
+              <PhoneIcon className="w-4 h-4" />Call 519-835-1210
             </a>
           </div>
           <div className="bg-white rounded-2xl p-6">

@@ -42,7 +42,7 @@ const faqs = [
   },
   {
     q: 'How do I get started?',
-    a: 'Simply call us at 587-892-1200 or fill out our online form. We\'ll schedule a free consultation and walk you through everything step by step.',
+    a: 'Simply call us at 519-835-1210 or fill out our online form. We\'ll schedule a free consultation and walk you through everything step by step.',
   },
 ];
 
@@ -88,8 +88,8 @@ export default function FAQ() {
             <h2 className="text-2xl font-black text-white mb-3">Still Have Questions?</h2>
             <p className="text-gray-400 mb-6 text-sm">Call us or fill out the form — we'll answer everything during your free consultation.</p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
-              <a href="tel:5878921200" className="btn-primary flex items-center justify-center gap-2">
-                <PhoneIcon className="w-4 h-4" />587-892-1200
+              <a href="tel:5198351210" className="btn-primary flex items-center justify-center gap-2">
+                <PhoneIcon className="w-4 h-4" />519-835-1210
               </a>
               <Link to="/contact" className="btn-outline flex items-center justify-center gap-2">
                 Contact Us <ArrowIcon className="w-4 h-4" />

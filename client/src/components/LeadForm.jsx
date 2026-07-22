@@ -33,8 +33,8 @@ export default function LeadForm({ variant = 'default' }) {
       </div>
       <h3 className="text-xl font-bold text-navy-900 mb-2">Thank You!</h3>
       <p className="text-gray-500">Our team will reach out to you within 24 hours for a free consultation.</p>
-      <a href="tel:5878921200" className="mt-4 inline-flex items-center gap-2 text-crimson-600 font-semibold hover:underline">
-        <PhoneIcon className="w-4 h-4" />Call now: 587-892-1200
+      <a href="tel:5198351210" className="mt-4 inline-flex items-center gap-2 text-crimson-600 font-semibold hover:underline">
+        <PhoneIcon className="w-4 h-4" />Call now: 519-835-1210
       </a>
     </div>
   );

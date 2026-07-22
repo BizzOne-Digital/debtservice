@@ -139,8 +139,8 @@ export default function Home() {
                 <Link to="/contact" className="btn-primary text-center flex items-center justify-center gap-2">
                   Get Free Consultation <ArrowIcon className="w-4 h-4" />
                 </Link>
-                <a href="tel:5878921200" className="btn-outline text-center flex items-center justify-center gap-2">
-                  <PhoneIcon className="w-4 h-4" />Call 587-892-1200
+                <a href="tel:5198351210" className="btn-outline text-center flex items-center justify-center gap-2">
+                  <PhoneIcon className="w-4 h-4" />Call 519-835-1210
                 </a>
               </div>
 
@@ -341,8 +341,8 @@ export default function Home() {
             Call NAVJOT today for a free, no-obligation consultation. We'll review your situation and show you your options.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:5878921200" className="bg-white text-crimson-600 font-black text-lg py-4 px-10 rounded-lg hover:bg-gray-100 transition-colors flex items-center justify-center gap-3">
-              <PhoneIcon className="w-5 h-5" />587-892-1200
+            <a href="tel:5198351210" className="bg-white text-crimson-600 font-black text-lg py-4 px-10 rounded-lg hover:bg-gray-100 transition-colors flex items-center justify-center gap-3">
+              <PhoneIcon className="w-5 h-5" />519-835-1210
             </a>
             <Link to="/contact" className="btn-outline text-lg py-4 px-10">
               Fill Out The Form

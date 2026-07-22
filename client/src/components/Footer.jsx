@@ -14,14 +14,14 @@ export default function Footer() {
             We help Canadians overcome financial hardship through legal debt relief options including consumer proposals.
           </p>
           <div className="flex flex-col gap-3 text-sm">
-            <a href="tel:5878921200" className="flex items-center gap-2 hover:text-gold transition-colors">
-              <PhoneIcon className="w-4 h-4 text-crimson-500" />587-892-1200
+            <a href="tel:5198351210" className="flex items-center gap-2 hover:text-gold transition-colors">
+              <PhoneIcon className="w-4 h-4 text-crimson-500" />519-835-1210
             </a>
             <a href="mailto:info@debtservice.ca" className="flex items-center gap-2 hover:text-gold transition-colors">
               <MailIcon className="w-4 h-4 text-crimson-500" />info@debtservice.ca
             </a>
             <span className="flex items-center gap-2">
-              <LocationIcon className="w-4 h-4 text-crimson-500" />Alberta, Canada
+              <LocationIcon className="w-4 h-4 text-crimson-500" />Guelph, Ontario N1L 1N2
             </span>
           </div>
         </div>
